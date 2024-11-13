@@ -1,5 +1,3 @@
-# Count-the-Number-and-Organize-Uppercase-Letters
-
 # Counting capital string
 Program to count the number of uppercase letters in a string using ASCII table.
 
